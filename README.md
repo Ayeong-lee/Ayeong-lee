@@ -1,4 +1,12 @@
-# Project
+# INTRO
+
+안녕하세요, **새로운 것에 도전하는 것을 주저하지 않는** 이아영입니다.
+각종 프로젝트를 진행하며 개발 역량을 길렀고, 그중 몇개는 팀장을 맡아 팀원들을 이끌어나가기도 했습니다.
+주로 **웹, 어플리케이션의 데이터베이스 관리**를 담당하였으며, **JAVA, JAVASCRIPT**등의 언어에 익숙합니다.
+아래 프로젝트는 제가 진행하였던 프로젝트 중 오랜 시간을 들여 개발 역량 뿐만 아니라 타 분야 사람들과의 커뮤니케이션 능력 및 팀워크를 배울 수 있었던 것들입니다.
+
+
+# PROJECT
 ## Polda <img src="https://img.shields.io/badge/Android studio-3DDC84?style=for-the-badge&logo=Android studio&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 
 개발 기간 약 6개월
@@ -25,6 +33,4 @@
 웹사이트 UI, 게시글 작성, 기부, 순위 확인
 
 
-#ETC
 
-JAVA, JAVASCRIPT, 어플리케이션 및 웹 개발
