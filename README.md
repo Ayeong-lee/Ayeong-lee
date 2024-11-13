@@ -15,7 +15,7 @@
 
 
 
-## Catchmento <img src="https://img.shields.io/badge/Android studio-3DDC84?style=for-the-badge&logo=Android studio&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+## Catchmentor <img src="https://img.shields.io/badge/Android studio-3DDC84?style=for-the-badge&logo=Android studio&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 
 개발 기간 약 1년
 
